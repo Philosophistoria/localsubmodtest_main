@@ -1,3 +1,3 @@
 [submodule "sub_neko"]
 	path = sub_neko
-	url = ./sub_neko/
+	url = git@github.com:Philosophistoria/localsubmodtest_sub.git
