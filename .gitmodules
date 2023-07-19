@@ -1,0 +1,3 @@
+[submodule "sub_neko"]
+	path = sub_neko
+	url = ./sub_neko/
